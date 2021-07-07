@@ -20,7 +20,7 @@ import { PrivacyPageModule } from "src/app/pages/privacy/privacy.module";
 import { AppTermsPageModule } from "src/app/pages/app-terms/app-terms.module";
 import { ThemeEditorComponent } from "src/app/feature/theme/theme-editor/theme-editor.component";
 import { ColorSketchModule } from "ngx-color/sketch";
-import { FormsModule } from "@angular/forms";
+import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { SurveyModule } from "src/app/feature/survey/survey.module";
 
 const introModules = [AppTermsPageModule, PrivacyPageModule];
@@ -28,6 +28,7 @@ const introModules = [AppTermsPageModule, PrivacyPageModule];
 import { LottieModule } from "ngx-lottie";
 import player from "lottie-web";
 import { TourComponent } from "./feature/tour/tour.component";
+import { ReviewingModule } from "./feature/reviewing-content/reviewing.module";
 
 // Note we need a separate function as it's required
 // by the AOT compiler.
@@ -49,7 +50,10 @@ export function lottiePlayerFactory() {
     AngularFireModule.initializeApp(environment.firebaseConfig),
     AngularFireAuthModule,
     FormsModule,
+    ReactiveFormsModule,
+    ReactiveFormsModule,
     ColorSketchModule,
+    ReviewingModule,
     ...introModules,
     SurveyModule,
     LottieModule.forRoot({ player: lottiePlayerFactory, useCache: true }),
