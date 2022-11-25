@@ -1,62 +1,62 @@
 export const UNTRACKED_ASSETS = [];
 export const ASSETS_CONTENTS_LIST = {
-  "ae_principles/cidse/cidse_agrochemicals.png": {
+  "ae_principles/CIDSE/cidse_agrochemicals.png": {
     size_kb: 6,
     md5Checksum: "e45c6fdf33134a49071d00dbfbd88706",
   },
-  "ae_principles/cidse/cidse_biodiversity.png": {
+  "ae_principles/CIDSE/cidse_biodiversity.png": {
     size_kb: 4,
     md5Checksum: "c53a608d8d93c33a2d7c277ea255749a",
   },
-  "ae_principles/cidse/cidse_climate_change.png": {
+  "ae_principles/CIDSE/cidse_climate_change.png": {
     size_kb: 5.6,
     md5Checksum: "4d54ea01c3cbb8a07bef81b571423e7b",
   },
-  "ae_principles/cidse/cidse_communities.png": {
+  "ae_principles/CIDSE/cidse_communities.png": {
     size_kb: 8.7,
     md5Checksum: "014afee1ad487d5fb5ca3dbeab5366df",
   },
-  "ae_principles/cidse/cidse_decision_making.png": {
+  "ae_principles/CIDSE/cidse_decision_making.png": {
     size_kb: 5.6,
     md5Checksum: "b968fac8229248f596c04cc538320a61",
   },
-  "ae_principles/cidse/cidse_diets.png": {
+  "ae_principles/CIDSE/cidse_diets.png": {
     size_kb: 9.8,
     md5Checksum: "6129e2562129be5431b0837ccbf36218",
   },
-  "ae_principles/cidse/cidse_economic_resilience.png": {
+  "ae_principles/CIDSE/cidse_economic_resilience.png": {
     size_kb: 5.5,
     md5Checksum: "6b2ea370e72552069c04d887f6d17e22",
   },
-  "ae_principles/cidse/cidse_economic_solidarity.png": {
+  "ae_principles/CIDSE/cidse_economic_solidarity.png": {
     size_kb: 3.9,
     md5Checksum: "c2162a7da58e1765c65e1ac0dd0ed3a1",
   },
-  "ae_principles/cidse/cidse_economy.png": {
+  "ae_principles/CIDSE/cidse_economy.png": {
     size_kb: 6.6,
     md5Checksum: "1900f4b8037614eeb5ccce25807a135a",
   },
-  "ae_principles/cidse/cidse_empowerment.png": {
+  "ae_principles/CIDSE/cidse_empowerment.png": {
     size_kb: 13.7,
     md5Checksum: "753b41e68219f623ad89fce48a3f7ee7",
   },
-  "ae_principles/cidse/cidse_food_governance.png": {
+  "ae_principles/CIDSE/cidse_food_governance.png": {
     size_kb: 14.7,
     md5Checksum: "8bc6c5e0c409ec8849d9ae3da4247d0f",
   },
-  "ae_principles/cidse/cidse_integration.png": {
+  "ae_principles/CIDSE/cidse_integration.png": {
     size_kb: 6.5,
     md5Checksum: "b46894a4cb3a5d4ee73ab5f12f4fe110",
   },
-  "ae_principles/cidse/cidse_knowledge.png": {
+  "ae_principles/CIDSE/cidse_knowledge.png": {
     size_kb: 11.2,
     md5Checksum: "73bb6e5b3c56046d2199c50f179f98d7",
   },
-  "ae_principles/cidse/cidse_policies.png": {
+  "ae_principles/CIDSE/cidse_policies.png": {
     size_kb: 3.4,
     md5Checksum: "a22788cc4656a02604aa1568fc338855",
   },
-  "ae_principles/cidse/cidse_rights.png": {
+  "ae_principles/CIDSE/cidse_rights.png": {
     size_kb: 5.1,
     md5Checksum: "d5b741db3de91f7c2294abb404f3f275",
   },
@@ -140,47 +140,47 @@ export const ASSETS_CONTENTS_LIST = {
     size_kb: 275.8,
     md5Checksum: "e70b96cb8b66020e782291cfe9009e23",
   },
-  "ae_principles/ifa/ifa_autonomy.png": {
+  "ae_principles/IFA/ifa_autonomy.png": {
     size_kb: 543.3,
     md5Checksum: "254ee812810fda796d2153f660fc6163",
   },
-  "ae_principles/ifa/ifa_cosmovision.png": {
+  "ae_principles/IFA/ifa_cosmovision.png": {
     size_kb: 618,
     md5Checksum: "f90c76a216e1f97c1bdc0ac80642d345",
   },
-  "ae_principles/ifa/ifa_knowing.png": {
+  "ae_principles/IFA/ifa_knowing.png": {
     size_kb: 389.6,
     md5Checksum: "aee943c5f6669b5f91588fa92463b871",
   },
-  "ae_principles/ifa/ifa_movements.png": {
+  "ae_principles/IFA/ifa_movements.png": {
     size_kb: 607.8,
     md5Checksum: "e491704cf5ab860e8ba7847b3281b3d8",
   },
-  "ae_principles/ifa/ifa_political.png": {
+  "ae_principles/IFA/ifa_political.png": {
     size_kb: 440.2,
     md5Checksum: "67b58295e0771eea68d6c3754a7cca8c",
   },
-  "ae_principles/ifa/ifa_resistance.png": {
+  "ae_principles/IFA/ifa_resistance.png": {
     size_kb: 507.2,
     md5Checksum: "7a43632e2492f5915fcfae430f150281",
   },
-  "ae_principles/ifa/ifa_resistance1.png": {
+  "ae_principles/IFA/ifa_resistance1.png": {
     size_kb: 323,
     md5Checksum: "af5a8c5f0ce6c19e35411732587b2ab4",
   },
-  "ae_principles/ifa/ifa_rights.png": {
+  "ae_principles/IFA/ifa_rights.png": {
     size_kb: 568.4,
     md5Checksum: "9241cd72fec9c367cbfa11fbbe132e88",
   },
-  "ae_principles/ifa/ifa_territories.png": {
+  "ae_principles/IFA/ifa_territories.png": {
     size_kb: 333.6,
     md5Checksum: "051dbb966be9a45cc083f9f9b9355c54",
   },
-  "ae_principles/ifa/ifa_women.png": {
+  "ae_principles/IFA/ifa_women.png": {
     size_kb: 247.1,
     md5Checksum: "2d4eba67578031fe81d04f3daff12fe3",
   },
-  "ae_principles/ifa/ifa_youth.png": {
+  "ae_principles/IFA/ifa_youth.png": {
     size_kb: 434.8,
     md5Checksum: "57c01af46bdded7e7b6efaea164d2b5b",
   },
