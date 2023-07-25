@@ -84,7 +84,12 @@
       "value": "Relaxation activities",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_nested_name": "subtitle_1"
@@ -271,7 +276,12 @@
       "value": "Something fun to do with your teen",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_nested_name": "subtitle_2"

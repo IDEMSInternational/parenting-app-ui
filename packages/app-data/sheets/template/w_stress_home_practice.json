@@ -62,7 +62,12 @@
               "value": "There are two home practices for this week.",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -81,7 +86,12 @@
                       "value": "Whenever you are feeling stressed or upset: take five breaths in and out before you react. \n\nAnd when you're both calm, share with your teen how you feel.",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",
@@ -193,7 +203,12 @@
                       "value": "Every time you take a pause before responding, or whenever you do something to keep your teen safe, tap your @global.parent_points and celebrate your success!",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",

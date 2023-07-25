@@ -46,7 +46,12 @@
               "value": "Let's Slow Down",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -193,7 +198,12 @@
               "value": "Well done!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -357,7 +367,12 @@
               "value": "We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n\nThis song is for parents everywhere. Listen, dance together and celebrate yourselves!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "condition": "@fields.do_this_workshop_together && @local.workshop == \"w_celebrate\"",
@@ -393,7 +408,12 @@
               "value": "We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n\nThis song is for parents everywhere. Listen, dance and celebrate yourself!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "condition": "!@fields.do_this_workshop_together && @local.workshop == \"w_celebrate\"",
@@ -488,7 +508,10 @@
                   "value": "Read along",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true
                     }
                   },
                   "action_list": [
@@ -511,7 +534,12 @@
                   "value": "See you soon.",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true,
+                      "za_xh": true,
+                      "za_zu": true
                     }
                   },
                   "hidden": false,

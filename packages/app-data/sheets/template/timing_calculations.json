@@ -150,7 +150,12 @@
       "value": "Sunday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 0",
@@ -177,7 +182,12 @@
       "value": "Monday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 1",
@@ -204,7 +214,12 @@
       "value": "Tuesday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 2",
@@ -231,7 +246,12 @@
       "value": "Wednesday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 3",
@@ -258,7 +278,12 @@
       "value": "Thursday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 4",
@@ -285,7 +310,12 @@
       "value": "Friday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 5",
@@ -312,7 +342,12 @@
       "value": "Saturday",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@fields.workshop_start_day == 6",

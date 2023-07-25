@@ -113,7 +113,12 @@
           "value": "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new workshop is unlocked to help you keep your teen safe.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

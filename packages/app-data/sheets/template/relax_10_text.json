@@ -25,7 +25,12 @@
           "value": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

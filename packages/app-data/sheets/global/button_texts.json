@@ -9,7 +9,12 @@
       "value": "Real-world ideas",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -19,7 +24,12 @@
       "value": "Ideas",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -29,7 +39,12 @@
       "value": "Ideas from other families...",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -39,7 +54,12 @@
       "value": "Challenges & solutions",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -49,7 +69,12 @@
       "value": "Submit",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -59,7 +84,12 @@
       "value": "Find out more",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -69,7 +99,12 @@
       "value": "Show me how",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -79,7 +114,12 @@
       "value": "Tell me more!",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -89,7 +129,12 @@
       "value": "Let's go!",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -99,7 +144,12 @@
       "value": "Check it out!",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -109,7 +159,12 @@
       "value": "Done",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -119,7 +174,12 @@
       "value": "Next",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -129,7 +189,12 @@
       "value": "Previous",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -139,7 +204,12 @@
       "value": "Save",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -149,7 +219,12 @@
       "value": "Start",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -159,7 +234,12 @@
       "value": "Skip",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -169,7 +249,12 @@
       "value": "Continue",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -179,7 +264,12 @@
       "value": "Finish with a song",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -189,7 +279,12 @@
       "value": "Goodbye!",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },

@@ -461,7 +461,12 @@
           "value": "Hi @fields.user_name! This week you did:",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "!@local.no_parent_points_this_week",
@@ -499,7 +504,12 @@
           "value": "Hi @fields.user_name! Thank you for using @global.parent_app and committing to your parenting. \n\nRemember to tap your @global.parent_points!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.no_parent_points_this_week",
@@ -604,7 +614,12 @@
           "value": "That’s wonderful!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 1",
@@ -631,7 +646,12 @@
           "value": "Nice work!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 2",
@@ -658,7 +678,12 @@
           "value": "Your commitment is not taken for granted.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 3",
@@ -685,7 +710,12 @@
           "value": "Keep up the good work!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 4",
@@ -712,7 +742,12 @@
           "value": "This is lovely!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 5",
@@ -739,7 +774,12 @@
           "value": "Tap yourself on the shoulder. You deserve this.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 6",
@@ -766,7 +806,12 @@
           "value": "Every @global.parent_point counts!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@local.pick_random == 7",

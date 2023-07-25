@@ -18,7 +18,12 @@
               "value": "Speak kindly to yourself about what a great job you are doing. There is no such thing as a perfect parent, and we think you’re doing great!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",

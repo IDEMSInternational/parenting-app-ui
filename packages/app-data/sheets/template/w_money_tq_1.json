@@ -46,7 +46,12 @@
               "value": "We all have dreams for our family, just like @global.w_money_grandma. By setting aside a bit of money every month, you can realise them too!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -76,7 +81,12 @@
                   "value": "What are your  family savings goals?",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true,
+                      "za_xh": true,
+                      "za_zu": true
                     }
                   },
                   "type": "set_variable",
@@ -107,7 +117,12 @@
               "value": "Such great goals! \n\nSuch a great goal! When we make a good budget and saving plan together, we can achieve it and feel proud of ourselves!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -178,7 +193,12 @@
               "value": "We all have dreams for our family, just like @global.w_money_grandma. By setting aside a bit of money every month, you can realise them too!",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -225,7 +245,12 @@
                   "value": "What are your family savings goals?",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true,
+                      "za_xh": true,
+                      "za_zu": true
                     }
                   },
                   "type": "set_variable",
@@ -297,7 +322,12 @@
                   "value": "Such a great goal! \n\nBy making a good budget and saving plan, you can achieve it and feel proud of yourself!",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true,
+                      "za_xh": true,
+                      "za_zu": true
                     }
                   },
                   "type": "set_variable",

@@ -38,7 +38,12 @@
               "value": "Using the app together",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -49,7 +54,12 @@
               "value": "It’s great to see you!\n\nFirst, let’s help your group get started.",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -76,7 +86,12 @@
                       "value": "Agree on your ground rules together:\n* Which day(s)/time(s) will we meet in the week?\n* Who will hold the phone(s) during our activities?\n* How can we make sure everyone can share freely?\n* What can we do so we all feel respected?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",

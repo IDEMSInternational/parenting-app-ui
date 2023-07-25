@@ -140,7 +140,12 @@
           "value": "Read",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "!@fields.do_this_workshop_together",
@@ -167,7 +172,12 @@
           "value": "Let's read a story!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "!@fields.do_this_workshop_together",
@@ -219,7 +229,12 @@
           "value": "Read Together",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@fields.do_this_workshop_together",
@@ -246,7 +261,12 @@
           "value": "Let's read a story together!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "condition": "@fields.do_this_workshop_together",

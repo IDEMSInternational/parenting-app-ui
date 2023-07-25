@@ -10,7 +10,12 @@
       "title": "Help yourself cope",
       "_translations": {
         "title": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -25,7 +30,12 @@
       "title": "Help your teen cope",
       "_translations": {
         "title": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -40,7 +50,12 @@
       "title": "Practical steps",
       "_translations": {
         "title": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {

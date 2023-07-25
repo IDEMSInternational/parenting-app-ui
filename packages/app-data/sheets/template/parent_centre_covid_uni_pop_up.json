@@ -9,7 +9,12 @@
       "value": "This button will take you to the Coronavirus section of the official UNICEF website.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_nested_name": "text_1"
@@ -20,7 +25,12 @@
       "value": "The URL is https://www.unicef.org/coronavirus/covid-19",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "style_list": [

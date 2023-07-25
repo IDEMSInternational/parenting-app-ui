@@ -9,7 +9,12 @@
       "value": "My Favourite Relaxes",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -19,7 +24,12 @@
       "value": "All Relaxes",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -29,7 +39,12 @@
       "value": "Random Relax",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -39,7 +54,12 @@
       "value": "This Week's Relax",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -49,7 +69,12 @@
       "value": "Listen & Relax (1-2 minutes)",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -59,7 +84,12 @@
       "value": "Listen & Relax (3-5 minutes)",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },
@@ -69,7 +99,12 @@
       "value": "Do & Relax (5-10 minutes)",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       }
     },

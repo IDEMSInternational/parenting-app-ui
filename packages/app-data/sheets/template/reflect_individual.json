@@ -66,7 +66,12 @@
           "value": "Let's see how this week has been.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",
@@ -88,7 +93,12 @@
               "value": "This week you have done...",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -99,7 +109,12 @@
               "value": "You are showing such commitment to being a parent and to caring for yourself. \n\nYou are fantastic.",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",

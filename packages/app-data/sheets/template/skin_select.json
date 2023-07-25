@@ -167,7 +167,12 @@
       "value": "You have entered an incorrect code.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@local.reply_entered && !(@local.text_box == @global.dev_mode_code || @local.text_box == @global.test_mode_code)",

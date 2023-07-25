@@ -13,7 +13,12 @@
           "value": "You selected \"I would rather not answer\"",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",
@@ -24,7 +29,12 @@
           "value": "That’s ok! \n\nRemember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

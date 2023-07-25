@@ -9,7 +9,12 @@
       "value": "Customise your @global.parent_app",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_nested_name": "title",
@@ -35,7 +40,12 @@
       "value": "Now that we have built some self-care skills, let’s make sure your @global.weekly_workshops are exactly right for you.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "!@field.survey_welcome_completed",
@@ -73,7 +83,12 @@
       "value": "You seem to have completed the customisation process already. You can now skip this activity.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@field.survey_welcome_completed",

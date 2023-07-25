@@ -43,6 +43,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_1.mp3",
           "md5Checksum": "936f7484ff27233427a9aba04af26cd3",
           "size_kb": 356.2
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_1.mp3",
+          "md5Checksum": "f67195b5b8b16e13c27bea30e3daa3bf",
+          "size_kb": 425.5
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_1.mp3",
+          "md5Checksum": "661d966ecd4c3ac069007d4bf29d0a40",
+          "size_kb": 570
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_1.mp3",
+          "md5Checksum": "e50dbc959585eb83480887c083816412",
+          "size_kb": 521.3
         }
       }
     },
@@ -57,6 +72,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_10.mp3",
           "md5Checksum": "4cc3755f3c8c496de3e8fb9e8f59f65c",
           "size_kb": 724.1
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_10.mp3",
+          "md5Checksum": "cb18fd93fb545ea1d800f554d21e47fd",
+          "size_kb": 804.3
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_10.mp3",
+          "md5Checksum": "690673d3804c5e2f5a96fc698910f854",
+          "size_kb": 942
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_10.mp3",
+          "md5Checksum": "b5dbea4ae785d3be159e155753815d39",
+          "size_kb": 813.8
         }
       }
     },
@@ -71,6 +101,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_11.mp3",
           "md5Checksum": "66e3c056942878fc3dc3956e5e406f54",
           "size_kb": 400.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_11.mp3",
+          "md5Checksum": "d13d03fbf1cafa04bda723afc4dfaa7c",
+          "size_kb": 712.9
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_11.mp3",
+          "md5Checksum": "e0c4ac6bde25cd8b7c1a10410905b1dc",
+          "size_kb": 867
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_11.mp3",
+          "md5Checksum": "a2159af546cd63070cb48050aeeb46af",
+          "size_kb": 701.3
         }
       }
     },
@@ -85,6 +130,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_12.mp3",
           "md5Checksum": "1a696c2ca734927203e0f99af05829e3",
           "size_kb": 1027
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_12.mp3",
+          "md5Checksum": "38d7b22471d79595b0a00756e4cf5f9c",
+          "size_kb": 1152.9
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_12.mp3",
+          "md5Checksum": "90cd0e96caf4f8981c463f0f05e89447",
+          "size_kb": 1002
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_12.mp3",
+          "md5Checksum": "5fa21dee0c45a913b505e63b200ab528",
+          "size_kb": 537
         }
       }
     },
@@ -99,6 +159,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_13.mp3",
           "md5Checksum": "ef059cd6600700c3991bb1cf0a7d2642",
           "size_kb": 666.2
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_13.mp3",
+          "md5Checksum": "88aecc28aeb0f09d5986557c30f0d902",
+          "size_kb": 728.4
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_13.mp3",
+          "md5Checksum": "b72428408ed5603d5f29c9beb80c2cc2",
+          "size_kb": 805.2
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_13.mp3",
+          "md5Checksum": "c18869efccd20b619546d194e63a8ac7",
+          "size_kb": 727.5
         }
       }
     },
@@ -113,6 +188,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_14.mp3",
           "md5Checksum": "27e51c9963e13613f31c2f72b8d83b9c",
           "size_kb": 719.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_14.mp3",
+          "md5Checksum": "8de339d77e769aa27c3dc44073ee95f0",
+          "size_kb": 550
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_14.mp3",
+          "md5Checksum": "280835b8bca8e1537e33949ccb0c6b55",
+          "size_kb": 459.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_14.mp3",
+          "md5Checksum": "f3702f201ab1b56c014462b33a0b9e0d",
+          "size_kb": 338.3
         }
       }
     },
@@ -127,6 +217,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_15.mp3",
           "md5Checksum": "ba89eb53eb296e78fa5547d8dca32dbf",
           "size_kb": 1001.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_15.mp3",
+          "md5Checksum": "226c3ceaa03d9531483ad2aeef04ea8d",
+          "size_kb": 626
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_15.mp3",
+          "md5Checksum": "cffb2b0b3e141b3b3f44af3642e516a9",
+          "size_kb": 648.8
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_15.mp3",
+          "md5Checksum": "93fbc698201eef2b010899d77286efe3",
+          "size_kb": 490.2
         }
       }
     },
@@ -141,6 +246,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_16.mp3",
           "md5Checksum": "3709f8502b6000d9c0c1245e28501c45",
           "size_kb": 969.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_16.mp3",
+          "md5Checksum": "e2c9b173f2299a19300dda3297f0f49d",
+          "size_kb": 483.1
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_16.mp3",
+          "md5Checksum": "fa9f97cad1a7ecd52e41a3862a42386d",
+          "size_kb": 647.7
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_16.mp3",
+          "md5Checksum": "53c8f5f83ba4e4f756626dcbf35f54c6",
+          "size_kb": 428.3
         }
       }
     },
@@ -155,6 +275,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_17.mp3",
           "md5Checksum": "aacd24ca8bd4c98786d31e20a1ff7981",
           "size_kb": 380.8
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_17.mp3",
+          "md5Checksum": "c3d9a77031fdea831f4d43069abf71c3",
+          "size_kb": 586.4
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_17.mp3",
+          "md5Checksum": "f5827ce4ba50660584b8c78b3f1f1f17",
+          "size_kb": 825.8
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_17.mp3",
+          "md5Checksum": "a29c36d1737e88714957a1ba7a56d7df",
+          "size_kb": 585.8
         }
       }
     },
@@ -169,6 +304,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_18.mp3",
           "md5Checksum": "d5b61b234663e71f0c2abe98d5cee222",
           "size_kb": 951.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_18.mp3",
+          "md5Checksum": "1d14318decf022374f050d4087e0b4b1",
+          "size_kb": 1384.3
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_18.mp3",
+          "md5Checksum": "304e682f2240cd8f2dd525a0367a2e1c",
+          "size_kb": 1096.9
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_18.mp3",
+          "md5Checksum": "7c4834c346ced3d97fbe20fac7a697ea",
+          "size_kb": 840
         }
       }
     },
@@ -183,6 +333,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_19.mp3",
           "md5Checksum": "0c1b9a4fbc04151d5e4b8e5e3b8d941e",
           "size_kb": 1708.6
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_19.mp3",
+          "md5Checksum": "6788460a6f2759c8832f4ea4b144d16b",
+          "size_kb": 2019.8
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_19.mp3",
+          "md5Checksum": "108d12711b2f9e1fd57a281c7f7934de",
+          "size_kb": 2070
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_19.mp3",
+          "md5Checksum": "e1d123c1eb56892fcd7ed298a13b3879",
+          "size_kb": 1796.3
         }
       }
     },
@@ -197,6 +362,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_2.mp3",
           "md5Checksum": "e65e1dd6513bce7b8f972e3732f1b9f1",
           "size_kb": 754.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_2.mp3",
+          "md5Checksum": "0afb1376968ba8140816e7ddc69b9850",
+          "size_kb": 688.8
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_2.mp3",
+          "md5Checksum": "d3ca3563a325e1a327f3c96aab1923bc",
+          "size_kb": 710.7
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_2.mp3",
+          "md5Checksum": "f02eddda65275a9c0047faeb4e7948ba",
+          "size_kb": 742.5
         }
       }
     },
@@ -211,6 +391,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_20.mp3",
           "md5Checksum": "1e42cab3a5590772d47283bc16bdfaf3",
           "size_kb": 1860
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_20.mp3",
+          "md5Checksum": "f56c7a4ce615ca6d13d8cec8f8961315",
+          "size_kb": 1847.3
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_20.mp3",
+          "md5Checksum": "981654ab1fe076d0e903ca3287d18d2b",
+          "size_kb": 2477.7
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_20.mp3",
+          "md5Checksum": "dcd84b8b857ea1c3b3f0503d77db1a95",
+          "size_kb": 1816.9
         }
       }
     },
@@ -225,6 +420,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_21.mp3",
           "md5Checksum": "5aedf4e1b5f9d5bb6ceef3cac9274ee0",
           "size_kb": 768.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_21.mp3",
+          "md5Checksum": "753bd581f48c1b6af40f5fa13e03922b",
+          "size_kb": 611
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_21.mp3",
+          "md5Checksum": "d73af6510293a35dddc6efb4e9d4e214",
+          "size_kb": 878.3
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_21.mp3",
+          "md5Checksum": "edb41d0680a5a555eab7137cb470e7a3",
+          "size_kb": 607.5
         }
       }
     },
@@ -239,6 +449,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_22.mp3",
           "md5Checksum": "2eda21db4b344f53af19aaca03c21cec",
           "size_kb": 535
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_22.mp3",
+          "md5Checksum": "e4fad5a480de91bbf860007ebf3fa24d",
+          "size_kb": 377.8
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_22.mp3",
+          "md5Checksum": "645385ea855acd711ade67bbdd67a8d6",
+          "size_kb": 547.5
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_22.mp3",
+          "md5Checksum": "6f1ab9b6bd86483ddf26b0537e55b200",
+          "size_kb": 328.2
         }
       }
     },
@@ -253,6 +478,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_23.mp3",
           "md5Checksum": "cb86784350fbe8da26d0609d04cff9f3",
           "size_kb": 637.5
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_23.mp3",
+          "md5Checksum": "0236b01f2f4b43d1f31bdcdfbf9a697b",
+          "size_kb": 360.6
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_23.mp3",
+          "md5Checksum": "62a89f08e6dad8b3906f1aba7bd410b8",
+          "size_kb": 459.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_23.mp3",
+          "md5Checksum": "6d51ee3f24248f30384b8b5c3ca0aaea",
+          "size_kb": 358.2
         }
       }
     },
@@ -267,6 +507,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_24.mp3",
           "md5Checksum": "c438d32e3105b16e15ee735e98bc54e1",
           "size_kb": 413.7
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_24.mp3",
+          "md5Checksum": "0403dd9016c3147205a1f62a0bccfa2a",
+          "size_kb": 404.3
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_24.mp3",
+          "md5Checksum": "6c8cc306f42e53b311554d10e7f2f47f",
+          "size_kb": 521.3
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_24.mp3",
+          "md5Checksum": "3912c232fce1a5e531673ccc32acffc0",
+          "size_kb": 371.3
         }
       }
     },
@@ -281,6 +536,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_3.mp3",
           "md5Checksum": "7f5f5d8aead6b5e21ce7408f250f0773",
           "size_kb": 349
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_3.mp3",
+          "md5Checksum": "66efb06717ae2e4fedc5b8cd0a3663f6",
+          "size_kb": 264.7
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_3.mp3",
+          "md5Checksum": "95988499b97fa9fc84f2caa41fee57b1",
+          "size_kb": 425.7
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_3.mp3",
+          "md5Checksum": "bc4af987d0a159c48d0df284b412dc92",
+          "size_kb": 296.3
         }
       }
     },
@@ -295,6 +565,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_4.mp3",
           "md5Checksum": "19440f346688b5fbfabf8853a3083266",
           "size_kb": 802.1
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_4.mp3",
+          "md5Checksum": "3cbc4995eb3cbcee1df0aa870588519c",
+          "size_kb": 862.4
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_4.mp3",
+          "md5Checksum": "709a455fe792883a25085e205e04dbc3",
+          "size_kb": 996.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_4.mp3",
+          "md5Checksum": "841f5fd8836bc8b24b65c19f4291e175",
+          "size_kb": 600.8
         }
       }
     },
@@ -309,6 +594,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_5.mp3",
           "md5Checksum": "3002019be46830b48b31fb6b461d8416",
           "size_kb": 463.6
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_5.mp3",
+          "md5Checksum": "c7c181194e648ddb9b2c4b7dc28465d3",
+          "size_kb": 590
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_5.mp3",
+          "md5Checksum": "1878a8b2fbb03cb9803099230a02cd6d",
+          "size_kb": 450.8
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_5.mp3",
+          "md5Checksum": "ad5435c21ec653ff99976a45d1df5e0f",
+          "size_kb": 291.4
         }
       }
     },
@@ -323,6 +623,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_6.mp3",
           "md5Checksum": "b2b2bbc830a774bec5c629c68265f27b",
           "size_kb": 474.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_6.mp3",
+          "md5Checksum": "07ef8abe6d925b00d18e9ccb6a92fe15",
+          "size_kb": 499
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_6.mp3",
+          "md5Checksum": "77bdf5152bb13e4608228f87a994a2ae",
+          "size_kb": 606.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_6.mp3",
+          "md5Checksum": "f14f7e11292d3c00d67023d40c5b19a7",
+          "size_kb": 393.8
         }
       }
     },
@@ -337,6 +652,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_7.mp3",
           "md5Checksum": "9b1df7789e3f1de838ae8f80e7dfd733",
           "size_kb": 582.3
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_7.mp3",
+          "md5Checksum": "64f40e3f980f0e827c0c37aea29f9051",
+          "size_kb": 412.1
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_7.mp3",
+          "md5Checksum": "eaf8ee0a20e047e137564430b0646fc5",
+          "size_kb": 536.3
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_7.mp3",
+          "md5Checksum": "0daf6960bbd80a6b43b5193b77abcb97",
+          "size_kb": 388.2
         }
       }
     },
@@ -351,6 +681,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_8.mp3",
           "md5Checksum": "26bf4a56c2f1e5b7c91ec9686486422b",
           "size_kb": 607.3
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_8.mp3",
+          "md5Checksum": "7d6358c593e39b4dfda57c9c47e19d22",
+          "size_kb": 574.9
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_8.mp3",
+          "md5Checksum": "c76c825f6c9cc8048cfd2826a966800f",
+          "size_kb": 708.8
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_8.mp3",
+          "md5Checksum": "de634a9ac19d4ba72622b969a2c7ca4c",
+          "size_kb": 493.2
         }
       }
     },
@@ -365,6 +710,21 @@
           "filePath": "tz_sw/plh_audio/relax/relax_9.mp3",
           "md5Checksum": "c7bfae7afd4120361c6d66de32160ecc",
           "size_kb": 1059.8
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/relax/relax_9.mp3",
+          "md5Checksum": "956e35d8c688220448011c98f03eab8f",
+          "size_kb": 1040.2
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/relax/relax_9.mp3",
+          "md5Checksum": "ef63484981f74f4a776705fe1aed576c",
+          "size_kb": 1290
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/relax/relax_9.mp3",
+          "md5Checksum": "8a5b0e6e6df556fb596471e748a98a13",
+          "size_kb": 990.8
         }
       }
     },
@@ -702,6 +1062,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_1on1_intro.mp3",
           "md5Checksum": "e4c71e1a9779b795b555a1dfd4d1cfaf",
           "size_kb": 343.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_1on1_intro.mp3",
+          "md5Checksum": "811cfc764585c5ab79c1340886891419",
+          "size_kb": 406
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_1on1_intro.mp3",
+          "md5Checksum": "6e2634ee14900dae30ae2f1669450868",
+          "size_kb": 460.2
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_1on1_intro.mp3",
+          "md5Checksum": "2eb1661c3f3fc1a878282c4dbf88b820",
+          "size_kb": 331.9
         }
       }
     },
@@ -716,6 +1091,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_celebrate_intro.mp3",
           "md5Checksum": "fddd25202ea375063f7034ff532bad4e",
           "size_kb": 380.7
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_celebrate_intro.mp3",
+          "md5Checksum": "923ceea57639cb2b2e696246ab015a11",
+          "size_kb": 399.8
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_celebrate_intro.mp3",
+          "md5Checksum": "9eb739df0b814a4cde2d8172a30d13dc",
+          "size_kb": 466.9
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_celebrate_intro.mp3",
+          "md5Checksum": "1159eb2c500d833c6cb0616be545d458",
+          "size_kb": 432
         }
       }
     },
@@ -730,6 +1120,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_consequence_intro.mp3",
           "md5Checksum": "c3d140c0f60861809665bfc0784fd081",
           "size_kb": 501.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_consequence_intro.mp3",
+          "md5Checksum": "095b73ace2faa99ccc1dc253b61b4c58",
+          "size_kb": 615.3
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_consequence_intro.mp3",
+          "md5Checksum": "dad77e92a12f98471f5b5085220bd63b",
+          "size_kb": 651.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_consequence_intro.mp3",
+          "md5Checksum": "ed915fcd8f82d7b1cdb3d20f8cff4952",
+          "size_kb": 620.7
         }
       }
     },
@@ -744,6 +1149,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_crisis_intro.mp3",
           "md5Checksum": "9b751a9456997ff55c1e97a2b313f328",
           "size_kb": 748.9
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_crisis_intro.mp3",
+          "md5Checksum": "823d431ece7fcd6882e9c07bdb5267d0",
+          "size_kb": 748.5
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_crisis_intro.mp3",
+          "md5Checksum": "08e1d61b052e3981eddc970f391d3569",
+          "size_kb": 807
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_crisis_intro.mp3",
+          "md5Checksum": "27b3edaba4bb792f8181baebe18544aa",
+          "size_kb": 766.9
         }
       }
     },
@@ -763,6 +1183,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_instruct_intro.mp3",
           "md5Checksum": "8ae1a4ebaa2886edd1a8790d814c76eb",
           "size_kb": 371.3
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_instruct_intro.mp3",
+          "md5Checksum": "ea9b68aeb6f2fc03548589783f53473a",
+          "size_kb": 434.5
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_instruct_intro.mp3",
+          "md5Checksum": "7d1e2f4bb8b8f775319bb82d4561a972",
+          "size_kb": 472.5
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_instruct_intro.mp3",
+          "md5Checksum": "63f4abdac9002f7716be0fb941f22d25",
+          "size_kb": 443.3
         }
       }
     },
@@ -782,6 +1217,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_money_intro.mp3",
           "md5Checksum": "7e86548bd22ab5ce97955f596c6cdd37",
           "size_kb": 516.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_money_intro.mp3",
+          "md5Checksum": "275a64674025711675c8a8123952b7cc",
+          "size_kb": 519
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_money_intro.mp3",
+          "md5Checksum": "5d1a7d71c0cbb527f1648dcfbfefb94c",
+          "size_kb": 643.2
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_money_intro.mp3",
+          "md5Checksum": "0a06cd3165613b3ae00f5414e64f0f57",
+          "size_kb": 571.9
         }
       }
     },
@@ -796,6 +1246,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_praise_intro.mp3",
           "md5Checksum": "130555d0bc02cc219005190ccabba218",
           "size_kb": 341.3
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_praise_intro.mp3",
+          "md5Checksum": "871c092067d1ff6c8f46880f8947eb5e",
+          "size_kb": 386
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_praise_intro.mp3",
+          "md5Checksum": "5ae1f0b5e553300cb63a5a9e949acbdd",
+          "size_kb": 423.8
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_praise_intro.mp3",
+          "md5Checksum": "85c3ac0e46e8db5432d3fb34a716bec6",
+          "size_kb": 313.2
         }
       }
     },
@@ -810,6 +1275,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_rules_intro.mp3",
           "md5Checksum": "a93189816550e5ef31896105daba8f98",
           "size_kb": 390.8
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_rules_intro.mp3",
+          "md5Checksum": "6788de1f7c6de9c59b7f1048db2b3455",
+          "size_kb": 441.1
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_rules_intro.mp3",
+          "md5Checksum": "c0f2db025179b3d886542931ab88b3ac",
+          "size_kb": 493.9
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_rules_intro.mp3",
+          "md5Checksum": "aa011ca8d7561151ce0a54ccb64aa159",
+          "size_kb": 511.9
         }
       }
     },
@@ -824,6 +1304,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_safe_intro.mp3",
           "md5Checksum": "979e2ac924073029250d80be46f79f7e",
           "size_kb": 665.7
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_safe_intro.mp3",
+          "md5Checksum": "61fa78463d22adadfd3d589a6949f49a",
+          "size_kb": 812.5
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_safe_intro.mp3",
+          "md5Checksum": "29bd2544fc0dd1a56a483e54d4857d01",
+          "size_kb": 806.3
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_safe_intro.mp3",
+          "md5Checksum": "8df3db10e43cfcc23164ccb627de2d00",
+          "size_kb": 793.9
         }
       }
     },
@@ -838,6 +1333,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_self_care_intro.mp3",
           "md5Checksum": "4b7d74b30f8a0c6f2599ea21daeae3cb",
           "size_kb": 555.8
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_self_care_intro.mp3",
+          "md5Checksum": "f04da451ee1d6509b72d3f777ba0785e",
+          "size_kb": 620.8
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_self_care_intro.mp3",
+          "md5Checksum": "576de9754b768f09c6f2941dfca5e91e",
+          "size_kb": 637.5
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_self_care_intro.mp3",
+          "md5Checksum": "977f095f8358295dfab2182785456aa3",
+          "size_kb": 589.5
         }
       }
     },
@@ -852,6 +1362,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_solve_intro.mp3",
           "md5Checksum": "ec78f5b1c067c9f4087db4fb05ee5f2e",
           "size_kb": 782.7
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_solve_intro.mp3",
+          "md5Checksum": "0d79fdb3c445a883c4a3ce1beec1c9a5",
+          "size_kb": 941.5
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_solve_intro.mp3",
+          "md5Checksum": "672779e0fc71e00ac9bc98b49ffc0ea6",
+          "size_kb": 868.9
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_solve_intro.mp3",
+          "md5Checksum": "d03247d4b9a6cb33910e58ffefa8749a",
+          "size_kb": 874.5
         }
       }
     },
@@ -871,6 +1396,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/w_stress_intro.mp3",
           "md5Checksum": "feec35b3113d6b9e8e04f9bd9d8ee8b4",
           "size_kb": 609.4
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/w_stress_intro.mp3",
+          "md5Checksum": "2b0927863333c42ed1d4164c55bd53ca",
+          "size_kb": 598.6
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/w_stress_intro.mp3",
+          "md5Checksum": "374ebfa0bc1748f3cc5645ee1d00190c",
+          "size_kb": 744.4
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/w_stress_intro.mp3",
+          "md5Checksum": "949c4032e5b3b288cf291734e67159a8",
+          "size_kb": 628.9
         }
       }
     },
@@ -890,6 +1430,21 @@
           "filePath": "tz_sw/plh_audio/topic_intros/workshops_reflection.mp3",
           "md5Checksum": "7bfa7ab8fd751da76319b879127beec5",
           "size_kb": 1245
+        },
+        "za_af": {
+          "filePath": "za_af/plh_audio/topic_intros/workshops_reflection.mp3",
+          "md5Checksum": "49d34276a5a04b73a330d5b972b0dee1",
+          "size_kb": 1158.2
+        },
+        "za_st": {
+          "filePath": "za_st/plh_audio/topic_intros/workshops_reflection.mp3",
+          "md5Checksum": "10a1b7763d64c7c809c0db38baa37205",
+          "size_kb": 1175.7
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_audio/topic_intros/workshops_reflection.mp3",
+          "md5Checksum": "e051706763b9593134cc68a319939bcc",
+          "size_kb": 1003.9
         }
       }
     },
@@ -2789,6 +3344,21 @@
           "filePath": "tz_sw/plh_video/lets_slow_down.vtt",
           "md5Checksum": "863b1dc416755fd6e7075e9da48862d4",
           "size_kb": 1.7
+        },
+        "za_af": {
+          "filePath": "za_af/plh_video/lets_slow_down.vtt",
+          "md5Checksum": "bc171b6b66335b3ebb3e6e641bde0b78",
+          "size_kb": 2
+        },
+        "za_st": {
+          "filePath": "za_st/plh_video/lets_slow_down.vtt",
+          "md5Checksum": "0a82badf875cce535d3ed0504dd053fd",
+          "size_kb": 2
+        },
+        "za_tn": {
+          "filePath": "za_tn/plh_video/lets_slow_down.vtt",
+          "md5Checksum": "1108e9d18835084b836c046d82b443f3",
+          "size_kb": 1.9
         }
       }
     },

@@ -62,7 +62,12 @@
           "value": "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Calm consequences really help your teen to follow rules well – give it a try before moving on!\n\nWell done for showing so much commitment to your family.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

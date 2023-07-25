@@ -105,7 +105,12 @@
                       "value": "Crisis 1: @global.w_crisis_teen_boy_2 fights at school",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "hidden": false,
@@ -158,7 +163,12 @@
                       "value": "How could you respond to @global.w_crisis_teen_boy_2?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "hidden": false,
@@ -443,7 +453,12 @@
                                   "value": "How could you respond in this situation?",
                                   "_translations": {
                                     "value": {
-                                      "tz_sw": true
+                                      "tz_sw": true,
+                                      "za_af": true,
+                                      "za_st": true,
+                                      "za_tn": true,
+                                      "za_xh": true,
+                                      "za_zu": true
                                     }
                                   },
                                   "hidden": false,
@@ -472,7 +487,12 @@
                                   "value": "Crisis 5: @global.w_crisis_teen_girl_1 is pressured into sex by her boyfriend",
                                   "_translations": {
                                     "value": {
-                                      "tz_sw": true
+                                      "tz_sw": true,
+                                      "za_af": true,
+                                      "za_st": true,
+                                      "za_tn": true,
+                                      "za_xh": true,
+                                      "za_zu": true
                                     }
                                   },
                                   "hidden": false,
@@ -534,7 +554,12 @@
                                   "value": "How could you respond to @global.w_crisis_teen_girl_1?",
                                   "_translations": {
                                     "value": {
-                                      "tz_sw": true
+                                      "tz_sw": true,
+                                      "za_af": true,
+                                      "za_st": true,
+                                      "za_tn": true,
+                                      "za_xh": true,
+                                      "za_zu": true
                                     }
                                   },
                                   "hidden": false,
@@ -576,7 +601,12 @@
               "value": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - we are proud of you.",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",

@@ -25,7 +25,12 @@
           "value": "At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

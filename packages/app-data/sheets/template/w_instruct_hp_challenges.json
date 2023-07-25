@@ -195,7 +195,12 @@
       "value": "Did you have any challenges?",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "parameter_list": {
@@ -208,7 +213,12 @@
       "value": "My teenager did not want to follow the instruction.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -219,7 +229,12 @@
       "value": "I did not find time to spend one-on-one time with my teen.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -230,7 +245,12 @@
       "value": "I gave a negative instead of a positive instruction.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -241,7 +261,12 @@
       "value": "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -349,7 +374,12 @@
       "value": "Top @local.number_of_challenges challenges other parents experience:",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -563,7 +593,12 @@
       "value": "I know; our children need time to learn to follow instructions. Be patient, try again, and remember to praise them every time they follow an instruction!",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "condition": "@local.combo_box==\"challenge_1\"",
@@ -598,7 +633,12 @@
           "value": "Do you want to try one of the following things?",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "parameter_list": {
@@ -671,7 +711,12 @@
           "value": "Perfect! Even spending 5 minutes makes a big difference, and if you do it at the same time every day (like at breakfast or before bed), it will be easier to keep it up!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "hidden": "@local.combo_box_challenge_2!=\"choice_2_a\"",
@@ -698,7 +743,12 @@
           "value": "Great! That way you get your work done and have a fun time together with your teen!",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "hidden": "@local.combo_box_challenge_2!=\"choice_2_b\"",
@@ -805,7 +855,12 @@
           "value": "It is difficult to come up with instructions while we are still angry. Try and find a time when you are calm to introduce a positive instruction to your teen. \n\nIn the next @global.weekly_workshop, we’ll talk more about how we can manage our emotions!  You can find more relaxation activities @data.parent_centre.relax_and_activities.location_text.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "_nested_name": "challenge_4.reply_challenge_4",

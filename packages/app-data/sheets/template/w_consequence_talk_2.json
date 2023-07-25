@@ -47,7 +47,12 @@
                   "value": "Discuss together:\n* What rules do your teens often break? \n* What consequence could you use for each specific broken rule? \n\nConsequences should be: \nFAIR (not too harsh)\nIMMEDIATE (do it straight away) \nCONSISTENT (same every time).\n\nPraise and encourage each other – we can give each other strength!",
                   "_translations": {
                     "value": {
-                      "tz_sw": true
+                      "tz_sw": true,
+                      "za_af": true,
+                      "za_st": true,
+                      "za_tn": true,
+                      "za_xh": true,
+                      "za_zu": true
                     }
                   },
                   "type": "set_variable",

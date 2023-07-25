@@ -24,7 +24,12 @@
           "value": "Well done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

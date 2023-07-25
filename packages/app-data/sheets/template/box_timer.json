@@ -22,7 +22,12 @@
       "value": "Timer",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -33,7 +38,12 @@
       "value": "Press the triangle to help you keep this discussion to @local.timer_duration minutes.",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",

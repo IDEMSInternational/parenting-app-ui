@@ -43,7 +43,12 @@
           "value": "Ground @global.w_solve_teen_girl for a month",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "hidden": false,
@@ -96,7 +101,12 @@
           "value": "That didn’t work... Let's try something else.",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "hidden": false,

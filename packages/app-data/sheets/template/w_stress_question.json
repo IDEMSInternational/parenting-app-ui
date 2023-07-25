@@ -9,7 +9,12 @@
       "value": "Recognise why he feels stressed",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -20,7 +25,12 @@
       "value": "Take a deep breath and speak calmly",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -31,7 +41,12 @@
       "value": "Show he understands his teen’s feelings",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -42,7 +57,12 @@
       "value": "Think about solutions together with @global.w_stress_teen_boy_1",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -68,7 +88,12 @@
       "value": "Do something positive together with @global.w_stress_teen_boy_1",
       "_translations": {
         "value": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "type": "set_variable",
@@ -123,7 +148,12 @@
               "value": "Let's think about what happened in this story.",
               "_translations": {
                 "value": {
-                  "tz_sw": true
+                  "tz_sw": true,
+                  "za_af": true,
+                  "za_st": true,
+                  "za_tn": true,
+                  "za_xh": true,
+                  "za_zu": true
                 }
               },
               "type": "set_variable",
@@ -159,7 +189,12 @@
                       "value": "How do you think @global.w_stress_teen_boy_1 felt?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",
@@ -225,7 +260,12 @@
                       "value": "And @global.w_stress_male_caregiver?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",
@@ -291,7 +331,12 @@
                       "value": "And @global.w_stress_girl?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",
@@ -328,7 +373,12 @@
                       "value": "Each of them was feeling upset for their own reason!",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",
@@ -363,7 +413,12 @@
                       "value": "What could @global.w_stress_male_caregiver have done differently?",
                       "_translations": {
                         "value": {
-                          "tz_sw": true
+                          "tz_sw": true,
+                          "za_af": true,
+                          "za_st": true,
+                          "za_tn": true,
+                          "za_xh": true,
+                          "za_zu": true
                         }
                       },
                       "type": "set_variable",

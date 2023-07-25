@@ -16,10 +16,20 @@
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
@@ -37,10 +47,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -101,10 +121,20 @@
       "text_goal": "Your goal was to praise your teen.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_no": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
           "tz_sw": true
@@ -116,7 +146,12 @@
           "tz_sw": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "activity_title": {},
         "intro_text": {},
@@ -125,7 +160,12 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -186,13 +226,23 @@
       "text_goal": "Your home practice was to try out REAL, POSITIVE and EXACT instructions with your teen.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
           "tz_sw": true
         },
         "reply_ok": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_sad": {
           "tz_sw": true
@@ -210,7 +260,12 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -274,10 +329,20 @@
           "tz_sw": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_sad": {
           "tz_sw": true
@@ -292,10 +357,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -356,10 +431,20 @@
       "text_goal": "Your goal was to make a family budget and savings plan.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
@@ -368,7 +453,12 @@
           "tz_sw": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "activity_title": {},
         "intro_text": {},
@@ -380,7 +470,12 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -443,7 +538,12 @@
           "tz_sw": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
@@ -464,7 +564,12 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -525,10 +630,20 @@
       "text_goal": "Your goal was to introduce ONE positive consequence (for your teen taking responsibility) and ONE negative consequence (for your teen breaking a household rule).",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
@@ -546,10 +661,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -609,16 +734,31 @@
       "text_goal": "Your goal was to try and resolve a problem or conflict together with your teen.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
         },
         "reply_sad": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "activity_title": {},
         "intro_text": {},
@@ -630,10 +770,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -697,13 +847,23 @@
           "tz_sw": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
         },
         "reply_sad": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "activity_title": {},
         "intro_text": {},
@@ -715,10 +875,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {
@@ -779,10 +949,20 @@
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for it.",
       "_translations": {
         "text_goal": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_happy": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "reply_ok": {
           "tz_sw": true
@@ -800,10 +980,20 @@
         },
         "button_no_text": {},
         "question_how": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "outro_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "_translatedFields": {

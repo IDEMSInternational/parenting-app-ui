@@ -14,7 +14,12 @@
           "value": "@global.w_rules_teen_boy knew his @global.w_rules_female_caregiver_1 appreciated him because...",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",
@@ -49,7 +54,12 @@
           "value": "* She praised him\n* She rewarded him when he followed the rule",
           "_translations": {
             "value": {
-              "tz_sw": true
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
             }
           },
           "type": "set_variable",

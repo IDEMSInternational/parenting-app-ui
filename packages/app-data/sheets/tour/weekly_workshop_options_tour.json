@@ -8,10 +8,20 @@
       "title": "Go to the @global.weekly_workshops",
       "_translations": {
         "title": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "message_text": "<p>Press this button on the home screen to go to the @global.weekly_workshops </p>",
@@ -23,10 +33,20 @@
       "title": "Go to the @global.weekly_workshop_options",
       "_translations": {
         "title": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         },
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "message_text": "<p>Press this button to go to the @global.weekly_workshop_options </p>",
@@ -50,7 +70,12 @@
       "message_text": "<p> You can change your name here. </p>",
       "_translations": {
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "template_component_name": "text_box_1",
@@ -61,7 +86,12 @@
       "message_text": "<p> This shows the day of the week that your new @global.weekly_workshop becomes available. </p>\n\n<p> If you want to change it, just press it. </p>",
       "_translations": {
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "template_component_name": "combo_box_2",
@@ -72,7 +102,12 @@
       "message_text": "<p> This shows the @global.weekly_workshop that you're currently on. </p>",
       "_translations": {
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "template_component_name": "combo_box_3",
@@ -83,7 +118,12 @@
       "message_text": "<p> You can change here whether you want to do your @global.weekly_workshops as a group or by yourself. </p>",
       "_translations": {
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "template_component_name": "radio_group_4",
@@ -94,7 +134,12 @@
       "message_text": "<p> Tap here to change your group name. </p>",
       "_translations": {
         "message_text": {
-          "tz_sw": true
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
         }
       },
       "template_component_name": "text_box_5",
