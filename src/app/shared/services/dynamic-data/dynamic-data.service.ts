@@ -6,7 +6,7 @@ import { FlowTypes } from "data-models";
 import { environment } from "src/environments/environment";
 import { AppDataService } from "../data/app-data.service";
 import { AsyncServiceBase } from "../asyncService.base";
-import { arrayToHashmap, deepMergeObjects } from "../../utils";
+import { arrayToHashmap, deepMergeObjects, evaluateJSExpression } from "../../utils";
 import { PersistedMemoryAdapter } from "./adapters/persistedMemory";
 import { ReactiveMemoryAdapater, REACTIVE_SCHEMA_BASE } from "./adapters/reactiveMemory";
 import { TemplateActionRegistry } from "../../components/template/services/instance/template-action.registry";
@@ -66,9 +66,39 @@ export class DynamicDataService extends AsyncServiceBase {
   }
   private registerTemplateActionHandlers() {
     this.templateActionRegistry.register({
+      /**
+       * Write properties on the current item (default), or on an explicitly targeted item,
+       * e.g.
+       * click | set_item | completed:true;
+       * click | set_item | id: @item.id, completed:true;
+       * click | set_item | _index: @item._index + 1, completed:true;
+       */
       set_item: async ({ args, params }) => {
-        const [flow_name, row_id] = args;
-        await this.update("data_list", flow_name, row_id, params);
+        const [flow_name, row_ids, row_id] = args;
+        const { _index, _id, ...writeableProps } = params;
+
+        // Target current row if another target is not explicitly provided
+        let targetRowId = row_id;
+        if (_index !== undefined) {
+          targetRowId = row_ids[_index];
+        }
+        if (_id) {
+          targetRowId = _id;
+        }
+
+        if (row_ids.includes(targetRowId)) {
+          console.log(
+            `[SET ITEM] - Setting properties on ${targetRowId}: ${JSON.stringify(writeableProps)}`
+          );
+          await this.update("data_list", flow_name, targetRowId, writeableProps);
+        } else {
+          if (_id) {
+            console.warn(`[SET ITEM] - No item with ID ${_id}`);
+          }
+          if (_index !== undefined) {
+            console.warn(`[SET ITEM] - No item at index ${_index}`);
+          }
+        }
       },
       set_items: async ({ args, params }) => {
         const [flow_name, row_ids] = args;

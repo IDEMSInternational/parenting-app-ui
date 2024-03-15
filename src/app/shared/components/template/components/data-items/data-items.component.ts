@@ -75,33 +75,47 @@ export class TmplDataItemsComponent extends TemplateBaseComponent implements OnD
   ) {
     const parsedItemDataList = await this.parseDataList(itemDataList);
     const itemRows = new ItemProcessor(parsedItemDataList, parameterList).process(rows);
-    const parsedItemRows = await this.hackProcessRows(itemRows);
-    const replacedActionRows = this.setActionListMeta(parsedItemRows, parsedItemDataList);
+    const itemRowsWithMeta = this.setItemMeta(itemRows, parsedItemDataList);
+
+    const parsedItemRows = await this.hackProcessRows(itemRowsWithMeta);
     // TODO - deep diff and only update changed
-    this.itemRows = replacedActionRows;
+    this.itemRows = parsedItemRows;
     this.cdr.markForCheck();
   }
 
   /**
-   * Update any action list set_item args to contain name of current data list and item id
-   * and set_items action to include all currently displayed rows
+   * Update item dynamic evaluation context and action lists to include relevant
+   * item data
    * */
-  private setActionListMeta(
+  private setItemMeta(
     rows: FlowTypes.TemplateRow[],
     dataList: {
       [index: string]: any;
     }
   ) {
+    const rowIds = Object.values(dataList).map((v) => v.id);
+    const lastRowIndex = rowIds.length - 1;
     return rows.map((r) => {
+      const rowId = r._evalContext.itemContext.id;
+
+      // Reassign metadata fields previously assigned by item as rendered row count may have changed
+      const itemIndex = rowIds.indexOf(rowId);
+      r._evalContext.itemContext = {
+        ...r._evalContext.itemContext,
+        _first: itemIndex === 0,
+        _last: itemIndex === lastRowIndex,
+      };
+      // Update any action list set_item args to contain name of current data list and item id
+      // and set_items action to include all currently displayed rows
       if (r.action_list) {
         r.action_list = r.action_list.map((a) => {
           if (a.action_id === "set_item") {
-            a.args = [this.dataListName, r._evalContext.itemContext.id];
+            a.args = [this.dataListName, rowIds, rowId];
           }
           if (a.action_id === "set_items") {
             // TODO - add a check for @item refs and replace parameter list with correct values
             // for each individual item (default will be just to pick the first)
-            a.args = [this.dataListName, Object.values(dataList).map((v) => v.id)];
+            a.args = [this.dataListName, rowIds];
           }
           return a;
         });
@@ -114,7 +128,7 @@ export class TmplDataItemsComponent extends TemplateBaseComponent implements OnD
    * Ordinarily rows would be processed as part of the regular template processing,
    * however this must be bypassed to allow multiple reprocessing on item updates
    */
-  private async hackProcessRows(rows) {
+  private async hackProcessRows(rows: FlowTypes.TemplateRow[]) {
     const processor = new TemplateRowService(this.injector, {
       name: "",
       template: {

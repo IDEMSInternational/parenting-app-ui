@@ -126,7 +126,7 @@ export class TemplateVariablesService extends AsyncServiceBase {
    **/
   private shouldEvaluateField(fieldName: keyof FlowTypes.TemplateRow, omitFields: string[] = []) {
     if (omitFields.includes(fieldName)) return false;
-    if (fieldName.startsWith("_")) return false;
+    if (fieldName.startsWith("_") && fieldName !== "_index") return false;
     return true;
   }
 
@@ -181,6 +181,11 @@ export class TemplateVariablesService extends AsyncServiceBase {
       // e.g. "Example syntax is `@field.my_name`" -> "Example syntax is @field.my_name"
       if (type === "raw") {
         return evaluator.fullExpression.replace(/`/gi, "");
+      }
+
+      // Do not evaluate if the appropriate context is not available
+      if (type === "item" && !context.itemContext) {
+        return evaluator.fullExpression;
       }
 
       // process the main lookup, e.g. @local.some_val, @campaign.some_val
