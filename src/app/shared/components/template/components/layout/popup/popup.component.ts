@@ -1,7 +1,8 @@
-import { Component, Input } from "@angular/core";
+import { Component, HostListener, Input } from "@angular/core";
 import { ModalController } from "@ionic/angular";
 import { FlowTypes, ITemplateContainerProps } from "../../../models";
 import { TemplateContainerComponent } from "../../../template-container.component";
+import { TemplateNavService } from "../../../services/template-nav.service";
 
 @Component({
   templateUrl: "./popup.component.html",
@@ -14,7 +15,15 @@ import { TemplateContainerComponent } from "../../../template-container.componen
 export class TemplatePopupComponent {
   @Input() props: ITemplatePopupComponentProps;
 
-  constructor(private modalCtrl: ModalController) {}
+  constructor(
+    private modalCtrl: ModalController,
+    private templateNavService: TemplateNavService
+  ) {}
+
+  @HostListener("window:popstate", ["$event"])
+  dismissOnNavBack() {
+    this.dismiss();
+  }
 
   /**
    * When templates emit completed/uncompleted value from standalone popup close the popup
@@ -36,8 +45,15 @@ export class TemplatePopupComponent {
     }
   }
 
-  dismiss(value?: { emit_value: string; emit_data: any }) {
-    this.modalCtrl.dismiss(value);
+  async dismiss(value?: { emit_value: string; emit_data: any }) {
+    // If launched as popup via template nav service, dismiss via service to ensure proper handling
+    if (this.templateNavService.openPopupsByName[this.props.name]) {
+      await this.templateNavService.dismissPopup(this.props.name, value);
+    }
+    // Else, e.g. if launched by TemplateService.runStandaloneTemplate(), simply dismiss
+    else {
+      await this.modalCtrl.dismiss(value);
+    }
   }
 }
 
@@ -53,4 +69,6 @@ export interface ITemplatePopupComponentProps extends ITemplateContainerProps {
   waitForDismiss?: boolean;
   /** Display fullscreen overlayed on top of all other app content */
   fullscreen?: boolean;
+  /** Track value of "triggered by" on action to repopulate query params */
+  popupParentTriggeredBy?: string;
 }
